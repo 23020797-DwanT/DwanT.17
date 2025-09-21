@@ -1,10 +1,11 @@
-public class Solution {
-    public static String printHello() {
-        return "HelloWorld";
-    }
 
-    public static void main(String[] args) {
-        System.out.println(printHello());
+public class Solution {
+    public static String printHello () {
+        System.out.println("HelloWorld Duong");
+    }
+    public static void main (String[] args) {
+        Solution s = new Solution();
+
     }
 }
 
